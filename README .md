@@ -3,8 +3,8 @@
 An interactive Power BI dashboard analysing the Superstore Sales dataset (about 51,000 order lines, 2011 to 2014, global markets). Built for CIT308 Data Visualization, BAIT, SLTC Research University.
 
 ## Dashboard preview
-![KPI page](screenshots/dashboard-page1.png)
-![Charts page](screenshots/dashboard-page2.png)
+   ![KPI page](dashboard-page1.png)
+   ![Charts page](dashboard-page2.png)
 
 ## Files
 
